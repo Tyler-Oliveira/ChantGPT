@@ -1,6 +1,6 @@
 # ChantGPT 🏆
 
-AI-powered World Cup anthem generator. Users describe their team and get back a real sung song with lyrics and music.
+AI-powered World Cup anthem generator. Users describe their team and get back a real sung song with lyrics and music. 
 
 ## Files
 
